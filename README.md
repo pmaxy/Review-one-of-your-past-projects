@@ -34,11 +34,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Microverse <a name="about-project"></a>
+# 📖 Review Past project <a name="about-project"></a>
 
 > Introduction to the first project.
 
-**Portiflio Setup and mobile first** is a introductory project to test skills for basic concepts of programming
+**Review Past project** is a project of checking and reviewing practice in microverse
 
 ## 🛠 Built With <a name="built-with"></a>
 
